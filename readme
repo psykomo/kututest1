@@ -1,1 +1,3 @@
 echo "hi rev1" + "hi rev2";
+echo "sedang diedit";
+tiba-tiba harus edit config.ini dan harus dicommit ke master
